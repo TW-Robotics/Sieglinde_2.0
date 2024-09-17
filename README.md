@@ -4,3 +4,5 @@
 3. Do `catkin_make`
 
 With `roslaunch sieglinde_new display.launch` you can launch RViz
+
+![alt text](https://github.com/TW-Robotics/Sieglinde_2.0/blob/main/sieglinde.png?raw=true)
