@@ -5,4 +5,6 @@
 
 With `roslaunch sieglinde_new display.launch` you can launch RViz
 
+In the Zip-file **EndeffektorV3.zip** you can find the CAD files (Solidworks 2023) for the gripper
+
 ![alt text](https://github.com/TW-Robotics/Sieglinde_2.0/blob/main/sieglinde.png?raw=true)
